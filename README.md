@@ -3,6 +3,15 @@ Tracking Agent Efficiency &amp; Customer Queries
 
 ![](https://github.com/judoski366/Call-Center-Performance-Dashboard/blob/main/call%20centre%20image.jpg)
 
+## Table Of Content
+ - [Introduction](#Introduction)
+ - [ASK](#ASK)
+ - [PREPARE](#PREPARE)
+ - [PROCESS](#PROCESS)
+ - [ANALYZE](#ANALYZE)
+ - [SHARE](#SHARE)
+ - [ACT](#ACT)
+
 ---
 ## Introduction
 
@@ -14,7 +23,7 @@ With a data-driven approach, this dashboard helps stakeholders optimize call cen
 
 ---
 
-## 1. ASK
+## ASK
 
 ### Objectives
 * How well are agents performing? → Identify top-performing and underperforming agents based on call volume and resolution rates.
@@ -25,7 +34,7 @@ With a data-driven approach, this dashboard helps stakeholders optimize call cen
 
 ---
 
-## 2. Prepare
+## Prepare
 
 ### Data Collection & Methodology
 This dataset was specifically created for the Lagos Tableau User Group Bootcamp, aiming to project focuses on analyzing call center activities to provide insights into agent performance, call volume trends, and customer interactions.
@@ -51,7 +60,7 @@ The dataset consists of 2000 Rows and 15 key columns, including:
 
 ---
 
-## 3. Process
+## Process
 
 ### Data Transformation Process
 To prepare the dataset for analysis, I used Microsoft Excel for an initial review, ensuring data cleanliness, and Tableau for visualization. The dataset contains both categorical (qualitative) and numerical (quantitative) data, including string, numerical, and boolean values.
@@ -129,7 +138,7 @@ These transformations allowed for better structuring and analysis of key perform
 
 ---
 
-## 4. Analyze
+## Analyze
 
 ### Data Exploration And Key Insight
 
@@ -203,7 +212,7 @@ Top Agent Handling Calls:
 
 ---
 
-## 5. Share
+## Share
 
 #### Communicating Insights from the Dashboard
 
@@ -229,7 +238,7 @@ This dashboard empowers decision-makers to optimize call center agent workflows,
 
 ---
 
-## 6. Act
+## Act
 
 #### Key Recommendations
 
